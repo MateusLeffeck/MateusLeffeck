@@ -8,11 +8,6 @@
 ##
 
 <a href="https://github.com/MateusLeffeck/github-readme-stats">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=MateusLeffeck&theme=highcontrast&show_icons=true" />
-</a>
-<a href="https://github.com/MateusLeffeck/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusLeffeck&layout=compact&langs_count=8&card_width=320&theme=highcontrast&size_weight=0&count_weight=1" />
-</a>
 
 ##
 
