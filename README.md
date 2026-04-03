@@ -7,10 +7,6 @@
   
 ##
 
-<a href="https://github.com/MateusLeffeck/github-readme-stats">
-
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="MateusLeffeck-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="MateusLeffeck-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
